@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://otlefskeqtkaiutalyhv.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im90bGVmc2tlcXRrYWl1dGFseWh2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDIyMTc1NTcsImV4cCI6MjA1Nzc5MzU1N30.nRjdfkt2FLJe915K4OKumrh0Eww2ajERcwDov-i1kB0",
+    "NEXT_PUBLIC_IMGPROXY_URL": "https://imgproxy.example.com"
+  }
+}
