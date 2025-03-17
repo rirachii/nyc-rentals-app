@@ -48,8 +48,8 @@
 - [x] Set up image upload pipeline
 
 ## Deployment and Testing
-- [ ] Set up CI/CD pipeline
-- [ ] Configure production environment
-- [ ] Deploy application
+- [x] Set up CI/CD pipeline
+- [x] Configure production environment
+- [x] Deploy application
 - [ ] Perform end-to-end testing
 - [ ] Optimize performance
